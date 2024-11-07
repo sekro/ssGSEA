@@ -38,4 +38,17 @@ values -> List of strings: GENE_ID - ENSG_ID Example: "KRT13 - ENSG00000171401"
 }
 ```
 
+## Requierments
+Python >= 3.13
+
+numpy>=2.1.2
+pandas>=2.2.3
+python-dateutil>=2.9.0.post0
+pytz>=2024.2
+scipy>=1.14.1
+six>=1.16.0
+tzdata>=2024.2
+
+
+
   
